@@ -1,5 +1,5 @@
-# FleetManagement
-DEVELOP &amp; DEPLOY A FLEET MANAGEMENT DASHBOARD WITH ETISALAT IOT  [3 Nov 2020, 5PM UAE Time]  Fleet Management is an important IoT use case for smart mobility that coalesces data from various sources and produces a high level analytical view.  
+# DEVELOP &amp; DEPLOY A FLEET MANAGEMENT DASHBOARD WITH ETISALAT IOT  [3 Nov 2020, 5PM UAE Time]  
+Fleet Management is an important IoT use case for smart mobility that coalesces data from various sources and produces a high level analytical view.  
 
 In this session, we’ll build on our introduction (https://www.theassembly.ae/videos/build-a-fleet-management-system-part-i/) last week and show you how to rapidly develop and deploy a rich web dashboard for our system which includes:  
 1. Global map and data views for all vehicles 
