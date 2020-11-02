@@ -11,3 +11,14 @@ In this session, we’ll build on our introduction (https://www.theassembly.ae/v
 We’ll also create a data simulator in the platform to mimic our edge devices and further refine our data inheritance model to accommodate a variety of vehicle types.  
 
 Prerequisites:  No download needed – just install PTC Cloud free trial (https://developer.thingworx.com/en/resources/trials)
+
+Steps:
+1. Install the PTC Cloud free trial (https://developer.thingworx.com/en/resources/trials)
+2. After logging in - import the following entities from the XML objects above
+   a. Projects_The Assembly - Fleet Management.xml
+   b. Things_VS_AssemblyVehicle.xml 
+   c. ThingTemplates_AssemblyVehicle.xml
+   d. Things_AssemblyCar1.xml 
+   e. Things_AssemblyCar2.xml 
+   f. Mashups_AssemblyFleetDashboard.xml 
+(These correspond to the diagram and follow on from what we've done in the first session)
